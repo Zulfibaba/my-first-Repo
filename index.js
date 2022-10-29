@@ -1,4 +1,4 @@
-let name ='zulfiqar';
+let name ='Ihtisham';
 let age = 20;
 let isapproved = false;
 let firstName = undefined;
